@@ -2,5 +2,9 @@
 
 ## Github page of Pradipta Davi Valendra. (Valordra)
 
-[LOG]: https://github.com/valordra/os212/blob/master/mylog.txt
+```markdown
+[LOG](TXT/mylog.txt)
+```
+
+
 
