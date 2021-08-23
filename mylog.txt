@@ -1,0 +1,3 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+ZCZC WEEK00 10 L00 Setting up Github and mylog.txt
