@@ -2,9 +2,8 @@
 
 ## Github page of Pradipta Davi Valendra. (Valordra)
 
-```markdown
-[LOG](TXT/mylog.txt)
-```
+[LOG](mylog.txt)
+[REPO](https://github.com/valordra/os212)
 
 
 
