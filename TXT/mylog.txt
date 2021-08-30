@@ -1,5 +1,6 @@
 # REV01 Mon Aug 30 14:20:00 WIB 2021
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-ZCZC WEEK00 10 L03 Setting up Github and mylog.txt
-ZCZC WEEK00 105 L04 Set up Github Page
+ZCZC WEEK00 10 L03 GitHub related
+ZCZC WEEK00 105 L04 GitHub Pages related
