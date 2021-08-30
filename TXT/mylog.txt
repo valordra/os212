@@ -2,5 +2,7 @@
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-ZCZC WEEK00 10 L03 GitHub related
-ZCZC WEEK00 105 L04 GitHub Pages related
+
+ZCZC WEEK00 10 L03 Created Repository
+ZCZC WEEK00 105 L04 First time setup Github Page
+ZCZC WEEK00 100 L02 First zoom meeting
