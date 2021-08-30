@@ -1,7 +1,0 @@
-# REV01 Mon 30 Aug 2021 09:43:00 WIB
-
-# Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-ZCZC WEEK00 10 L03 Setting up Github and mylog.txt
-ZCZC WEEK00 105 L04 Set up Github Page
-ZCZC WEEK00 105 L10 Assignment #00 
