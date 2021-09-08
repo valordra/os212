@@ -7,7 +7,7 @@ ZCZC WEEK00 10 L03 Created Repository
 ZCZC WEEK00 105 L04 First time setup Github Page
 ZCZC WEEK00 100 L02 First zoom meeting
 ZCZC WEEK00 60 L02 Second Zoom meeting
-ZCZC WEEK01 5 L05 First Quiz
+ZCZC WEEK01 05 L05 First Quiz
 ZCZC WEEK01 100 L02 Third Zoom Meeting
 ZCZC WEEK01 180 L08 Asdos Google Meet for Assignment Help
 ZCZC WEEK01 150 L11 Debian related for assignment
