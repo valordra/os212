@@ -14,7 +14,7 @@ ZCZC W01 30 L11 Assignment #01 VirtualBox Guest Preparation
 ZCZC W01 30 L12 Assignment #02 Importing or Installing?
 ZCZC W01 30 L13 Assignment #03 The ATM Way: GSGS and Read
 ZCZC W01 30 L14 Assignment #04 Dress Up Your Virtual Guest
-ZCZC W01 60 L15 Assignment #05 SSH Keys and Git Cloning
+ZCZC W01 30 L15 Assignment #05 SSH Keys and Git Cloning
 ZCZC W01 15 L16 Added a link to links
 ZCZC W01 05 L17 Updated mylog.txt
 ZCZC W01 10 L18 Assignment #08 More awk, bash, regex, sed
