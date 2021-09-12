@@ -4,6 +4,7 @@
 
 [LOG](TXT/mylog.txt)
 [REPO](https://github.com/valordra/os212)
+[LINKS](links.md)
 
 
 
