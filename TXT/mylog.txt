@@ -11,3 +11,5 @@ ZCZC W01 05 L22 First Quiz
 ZCZC W01 100 L02 Third Zoom Meeting
 ZCZC W01 180 L08 Asdos Google Meet for Assignment Help
 ZCZC W01 150 L11 Debian related for assignment
+ZCZC W01 15 L11 Added a link to links
+ZCZC W01 15 L11 reading assignment
