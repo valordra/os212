@@ -17,4 +17,17 @@ ZCZC W01 30 L15 Assignment #05 SSH Keys and Git Cloning
 ZCZC W01 15 L16 Added a link to links
 ZCZC W01 05 L17 Updated mylog.txt
 ZCZC W01 10 L18 Assignment #08 More awk, bash, regex, sed
-ZCZC W01 15 L19 reading assignment
+ZCZC W01 15 L19 Reading assignment
+ZCZC W02 05 L22 Second Quiz part one
+ZCZC W02 15 L22 Second Quiz part two
+ZCZC W02 100 L02 Fifth Zoom Meeting
+ZCZC W02 18 L02 Sixth Zoom Meeting (QnA Session)
+ZCZC W02 125 L11 Assignment #01 Reading Assignment OSC10 chapter 16 + 17
+ZCZC W02 30 L12 Assignment #02 Tried Demos
+ZCZC W02 240 L13 Assignment #03 Watched Cyber Security Introduction part 1 and the beginning of part 2.
+ZCZC W02 45 L14 Assignment #04 Generated a GnuPG Key Pair
+ZCZC W02 30 L15 Assignment #05 List of all GnuPG Keys
+ZCZC W02 25 L16 Assignment #06 Imported ospubkey.txt Key
+ZCZC W02 25 L17 Assignment #07 Signed the Operating Systems public key.
+ZCZC W02 30 L18 Assignment #08 Exported My Public Key
+ZCZC W02 45 L32 YouTube: Cybersecurity and GnuPG
