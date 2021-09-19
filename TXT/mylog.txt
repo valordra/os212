@@ -30,4 +30,5 @@ ZCZC W02 30 L15 Assignment #05 List of all GnuPG Keys
 ZCZC W02 25 L16 Assignment #06 Imported ospubkey.txt Key
 ZCZC W02 25 L17 Assignment #07 Signed the Operating Systems public key.
 ZCZC W02 30 L18 Assignment #08 Exported My Public Key
-ZCZC W02 45 L32 YouTube: Cybersecurity and GnuPG
+ZCZC W02 45 L32 YouTube: Cybersecurity and GnuP
+ZCZC W02 10 L19 Assignment #09 Ran SHA256 Script
