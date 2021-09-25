@@ -32,3 +32,16 @@ ZCZC W02 25 L17 Assignment #07 Signed the Operating Systems public key.
 ZCZC W02 30 L18 Assignment #08 Exported My Public Key
 ZCZC W02 45 L32 YouTube: Cybersecurity and GnuP
 ZCZC W02 10 L19 Assignment #09 Ran SHA256 Script
+ZCZC W03 5 L22 Third Quiz part one
+ZCZC W03 15 L22 Third Quiz part two
+ZCZC W03 100 L02 Seventh Zoom meeting
+ZCZC W03 30 L02 Eigth Zoom meeting (QnA Session)
+ZCZC W03 180 L11 Assignment #01 Reading Assignment OSC10 chapter 13 + 14 + 15
+ZCZC W03 100 L12 Assignment #02 Tried Demos
+ZCZC W03 60 L13 Assignment #03 Looked at and tried some MidTerm Problems (https://rms46.vlsm.org/2/198.pdf).
+ZCZC W03 15 L14 Assignment #04 Checked if my ".bash_aliases" file is up-todate.
+ZCZC W03 150 L15 Assignment #05 Added/Created An Extra Virtual Disk
+ZCZC W03 15 L16 Assignment #06 Updated my bookmark links. 
+ZCZC W03 15 L17 Assignment #07 Reviewed my peer links.
+ZCZC W03 15 L18 Assignment #08 Updated my log. 
+ZCZC W03 15 L19 Assignment #09 Submitted Your Week 03 Assignment.
