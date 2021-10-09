@@ -6,5 +6,5 @@
 
 [LOG](TXT/mylog.txt) | [REPO](https://github.com/valordra/os212) | [LINKS](links.md) | [TIPS](tips.md) | [RANK](TXT/myrank.txt)
 
-<img style="width: 125px" src="https://media.giphy.com/media/KzF6NgC9F1cbmMYZQA/giphy.gif">
+<img style="width: 500px;heigth: 569px" src="https://media.giphy.com/media/KzF6NgC9F1cbmMYZQA/giphy.gif">
 
