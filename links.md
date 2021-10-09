@@ -13,3 +13,6 @@ Learn the basics of the Vim editor in linux dari video 13 menit.
 
 ### 4. [Learn C-Programming] (https://www.programiz.com/c-programming)
 Learn the basics of the C language with a written tutorial and coding examples.
+
+### 5. [Memory Management in C] (https://eleceng.dit.ie/frank/IntroToC/Memory.html)
+Explanation of memory management in C.
