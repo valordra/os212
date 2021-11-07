@@ -19,3 +19,6 @@ Explanation of memory management in C.
 
 ### 6. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
 Explanation and a few examples of the fork function in C.
+
+### 7. [Introduction to Process Synchronization] (https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+A brief introduction to WEEK07's topic of synchronization.

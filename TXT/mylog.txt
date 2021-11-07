@@ -84,3 +84,16 @@ ZCZC W06 05 L16 Assignment #06 Updated Tips.
 ZCZC W06 30 L17 Assignment #07 Reviewed my peer links.
 ZCZC W06 15 L18 Assignment #08 Updated my log. 
 ZCZC W06 15 L19 Assignment #09 Submitted my Week 06 Assignment.
+ZCZC W07 5 L22 Seventh Quiz Part one
+ZCZC W07 15 L22 Seventh Quiz part two
+ZCZC W07 100 L02 15th Zoom Meeting
+ZCZC W07 30 L02 16th Zoom Meeting (QnA Session)
+ZCZC W07 60 L11 Assignment #01  Read OSC10 chapter 6, 7, 8.
+ZCZC W07 30 L12 Assignment #02 Tried Demos.
+ZCZC W07 60 L13 Assignment #03 Tried Previous MidTem Problems.
+ZCZC W07 30 L14 Assignment #04 Observed Shared Memory, read and did instructions on getting report2.txt.
+ZCZC W07 10 L15 Assignment #05 Updated my bookmark links. 
+ZCZC W07 05 L16 Assignment #06 Updated Tips.
+ZCZC W07 15 L17 Assignment #07 Reviewed my peer links.
+ZCZC W07 15 L18 Assignment #08 Updated my log. 
+ZCZC W07 15 L19 Assignment #09 Submitted  my Week 07 Assignment.
