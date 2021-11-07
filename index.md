@@ -6,7 +6,9 @@
 
 [LOG](TXT/mylog.txt) | [REPO](https://github.com/valordra/os212) | [LINKS](links.md) | [TIPS](tips.md) | [RANK](TXT/myrank.txt)
 Here's one of my most favorite videogame character.
+
 <img style="width: 320px;heigth: 569px" src="https://media.giphy.com/media/KzF6NgC9F1cbmMYZQA/giphy.gif">
+
 Julianne "Jill" Stringray from VA-11 Hall-A
 > Time to mix drinks and change lives.
 <body style="background-color: #430745;color: #ffffff;">
