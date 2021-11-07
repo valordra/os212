@@ -11,4 +11,4 @@
 
 <h3> Julianne "Jill" Stringray from VA-11 Hall-A </h3>
 > Time to mix drinks and change lives.
-<body style="background-color: #430745;color: #ffffff;">
+<body style="background-color: #430745;color: #ffffff;"> </body>
