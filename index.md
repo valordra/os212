@@ -9,6 +9,6 @@
 
 <img style="width: 320px;heigth: 569px" src="https://media.giphy.com/media/KzF6NgC9F1cbmMYZQA/giphy.gif">
 
-<h3> Julianne "Jill" Stringray from VA-11 Hall-A </h3>
+<h3> Julianne Natalie "Jill" Stringray from VA-11 Hall-A </h3>
 > Time to mix drinks and change lives.
 <body style="background-color: #430745;color: #ffffff;"> </body>
