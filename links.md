@@ -22,3 +22,6 @@ Explanation and a few examples of the fork function in C.
 
 ### 7. [Introduction to Process Synchronization] (https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 A brief introduction to WEEK07's topic of synchronization.
+
+### 8. [Linux from Scratch] (https://www.linuxfromscratch.org/)
+A comprehensive guide on setting up our own linux.
